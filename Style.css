@@ -1,0 +1,18 @@
+title {
+  font-family: "Georgia";
+  color: #abd827;
+  font-size: 21px;
+}  
+body {
+  background: #000000;
+}
+*p {
+  color: #00FF00;
+  font-family: "Georgia";
+  font-size: 18x;
+}
+#ft {
+  color: #00FF00;
+  font-family: "Georgia";
+  font-size: 15px;
+}
